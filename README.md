@@ -1,4 +1,4 @@
-# astra-memory
+# Zoastra-memory
 
 A hybrid semantic + lexical memory layer for AI agents, backed by **DataStax Astra DB Serverless** with **local** [`nomic-embed-text-v1.5`](https://huggingface.co/nomic-ai/nomic-embed-text-v1.5) embeddings.
 
